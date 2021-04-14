@@ -19,4 +19,4 @@ After the model is projected into the real world, user can press the voice recor
 
 ## Demo
 
-Here, you can watch a demo. Link will be added soon. Thank you for your interest in this project! 
+https://drive.google.com/file/d/1NpBTYRg1aqYR3cZZ49u8w4LODmjk_yeW/view?usp=sharing
